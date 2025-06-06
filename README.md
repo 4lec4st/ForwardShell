@@ -42,7 +42,4 @@ python3 main.py
 [!] Exiting...
 ```
 
-## Advertencia
-El uso de este script sin autorización es ilegal y puede violar la privacidad y seguridad de sistemas remotos. Úselo únicamente con fines educativos y en entornos controlados.
-
 
